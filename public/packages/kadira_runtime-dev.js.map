@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/packages/kadira_runtime-dev/lib.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AACA;AACA,yE","file":"/packages/kadira_runtime-dev.js","sourcesContent":["appEnv = {\n  \"development\": true\n}"]}

@@ -1,0 +1,43 @@
+/* Imports for global scope */
+
+Mongo = Package.mongo.Mongo;
+ReactiveVar = Package['reactive-var'].ReactiveVar;
+$ = Package.jquery.$;
+jQuery = Package.jquery.jQuery;
+Tracker = Package.tracker.Tracker;
+Deps = Package.tracker.Deps;
+ReactMeteorData = Package['react-meteor-data'].ReactMeteorData;
+Accounts = Package['accounts-base'].Accounts;
+chai = Package['practicalmeteor:chai'].chai;
+assert = Package['practicalmeteor:chai'].assert;
+expect = Package['practicalmeteor:chai'].expect;
+should = Package['practicalmeteor:chai'].should;
+Cluster = Package['meteorhacks:cluster'].Cluster;
+SimpleSchema = Package['aldeed:simple-schema'].SimpleSchema;
+MongoObject = Package['aldeed:simple-schema'].MongoObject;
+HTTP = Package.http.HTTP;
+xml2js = Package['peerlibrary:xml2js'].xml2js;
+Kadira = Package['meteorhacks:kadira'].Kadira;
+KadiraDebug = Package['kadira:debug'].KadiraDebug;
+Roles = Package['alanning:roles'].Roles;
+_i18n = Package['universe:i18n']._i18n;
+i18n = Package['universe:i18n'].i18n;
+Meteor = Package.meteor.Meteor;
+global = Package.meteor.global;
+meteorEnv = Package.meteor.meteorEnv;
+WebApp = Package.webapp.WebApp;
+_ = Package.underscore._;
+DDP = Package['ddp-client'].DDP;
+LaunchScreen = Package['launch-screen'].LaunchScreen;
+meteorInstall = Package.modules.meteorInstall;
+Buffer = Package.modules.Buffer;
+process = Package.modules.process;
+Symbol = Package['ecmascript-runtime'].Symbol;
+Map = Package['ecmascript-runtime'].Map;
+Set = Package['ecmascript-runtime'].Set;
+meteorBabelHelpers = Package['babel-runtime'].meteorBabelHelpers;
+Promise = Package.promise.Promise;
+T9n = Package['softwarerero:accounts-t9n'].T9n;
+Autoupdate = Package.autoupdate.Autoupdate;
+Reload = Package.reload.Reload;
+
